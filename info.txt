@@ -1,4 +1,7 @@
-Jan 5 2020
 
-words: Plant Publication
-time: 1:11:10.59 + research time 
+focus: Neumorphism with vector graphics and transition 
+words: Tangy Fruit
+time: 
+    - Research and Experiment: 1:03:39.63
+    - Design: 1:34:02.66
+
